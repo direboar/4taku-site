@@ -1,7 +1,7 @@
 {
   "name": "4taku",
   "short_name": "4taku",
-  "description": "## Build Setup",
+  "description": "## local開発環境 1.docker/htts-portalディレクトリで docker-compose up 1.npm run dev 1.https://localhost:3443",
   "icons": [
     {
       "src": "/4taku-site/_nuxt/icons/icon_64x64.e3e9fb.png",
